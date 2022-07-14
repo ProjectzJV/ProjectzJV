@@ -20,5 +20,5 @@
   <a href = "mailto:vitorg7_2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-b6ba59221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-https://github.com/projectzjv/projectzjv/blob/output/github-contribution-grid-snake.svg
+https://github.com/ProjectzJV/ProjectzJV/blob/output/github-contribution-grid-snake.svg
 </div>
